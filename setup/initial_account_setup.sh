@@ -1,5 +1,5 @@
 #Export projectid,location and bq dataset into variables
-export PROJECT_ID="liveability-final"
+export PROJECT_ID="ment360liveability-final"
 export LOCATION="australia-southeast1"
 export BQ_DATASET="liveability"
 
