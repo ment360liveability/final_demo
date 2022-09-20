@@ -7,7 +7,7 @@ git clone https://github.com/ment360liveability/final_demo
 
 
 #2.bash to create service account for cloud build
-cd mvp-liveability-setup
+cd final_demo
 bash CloudBuild_SvcAccount_Setup.sh
 
 #3.Create trigger for intial setup. Use "initial_account_setup_cloudbuild.yaml"
@@ -28,7 +28,7 @@ In demo
 Now run dataflow (not able to figure out how to use cloud composer to trigger till now)
 --------------------
 cd ..
-cd mvp-liveability-setup
+cd final_demo
 cd dataflow
 bash dataflow_run.sh
 
