@@ -41,7 +41,7 @@ Then show the result in app sheet too
 If the git clone asks for username and pwd
 -----------------------------------------
 Username for github =ment360liveability
-password=
+password=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
 
 
 
