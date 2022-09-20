@@ -2,7 +2,7 @@
 
 export PROJECT_ID="ment360liveability-final"   
 gcloud config set project ${PROJECT_ID}
-git clone https://github.com/liveabilityment360/mvp-liveability-setup
+git clone https://github.com/ment360liveability/final_demo
 
 #2.bash to create service account for cloud build
 cd mvp-liveability-setup
