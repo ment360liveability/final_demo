@@ -1,7 +1,7 @@
 #1.Open cloud shell  and export and set the project
 --------------------------------------------------
 
-export PROJECT_ID="liveability-final"   
+export PROJECT_ID="ment360liveability-final"   
 gcloud config set project ${PROJECT_ID}
 git clone https://github.com/liveabilityment360/mvp-liveability-setup
 
@@ -39,8 +39,8 @@ Then show the result in app sheet too
 
 If the git clone asks for username and pwd
 -----------------------------------------
-Username for github =liveabilityment360
-password=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
+Username for github =ment360liveability
+password=
 
 
 
